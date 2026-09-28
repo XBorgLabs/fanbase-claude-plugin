@@ -1,0 +1,29 @@
+{
+  "name": "fanbase-copilot",
+  "displayName": "FanBase Copilot",
+  "version": "0.1.0",
+  "description": "Cross-platform community inbox, fan CRM, and brand-voice publishing. Work the DMs, emails, comments and mentions that need a human across Discord, Instagram, X, WhatsApp and email, look up any fan's history, and publish in your brand voice.",
+  "author": {
+    "name": "XBorg",
+    "email": "gauthier@xborg.com",
+    "url": "https://copilot.fanbase.gg"
+  },
+  "homepage": "https://copilot.fanbase.gg",
+  "keywords": [
+    "fanbase",
+    "community-management",
+    "social-media",
+    "engagement",
+    "scheduling",
+    "email",
+    "discord",
+    "instagram",
+    "twitter",
+    "tiktok",
+    "whatsapp",
+    "twitch",
+    "youtube",
+    "shopify"
+  ],
+  "license": "MIT"
+}

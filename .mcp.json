@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fanbase": {
+      "type": "http",
+      "url": "https://api.copilot.fanbase.gg/mcp"
+    }
+  }
+}
