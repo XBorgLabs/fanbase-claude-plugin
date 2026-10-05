@@ -136,12 +136,6 @@ Code with the plugin loaded from your working copy, so the skills appear as
 | Feed is empty or stale | Ask Claude to run `list_platform_connections` — a platform is likely disconnected |
 | Wrong teamspace's data | Reconnect and pick the other teamspace at the consent step |
 
-## Staging
-
-To point a test install at staging, change the URL in `.mcp.json` to
-`https://api.staging-copilot.fanbase.gg/mcp`. Do not ship that change — the directory listing must
-point at production.
-
 ## Privacy and documentation
 
 - Privacy policy: https://copilot.fanbase.gg/privacy-policies

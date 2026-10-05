@@ -9,6 +9,7 @@
     "url": "https://copilot.fanbase.gg"
   },
   "homepage": "https://copilot.fanbase.gg",
+  "repository": "https://github.com/XBorgLabs/fanbase-claude-plugin",
   "keywords": [
     "fanbase",
     "community-management",
